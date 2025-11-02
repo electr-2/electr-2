@@ -4,7 +4,7 @@
 ## greeting
 Hello! I'm electr-2,please pronounce my name like /deɴdʑi/.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=electr-2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=electr-2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=Siv-3D-flappy-bird" alt="ovi" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=electr-2&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
