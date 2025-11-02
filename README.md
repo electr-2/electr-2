@@ -1,5 +1,8 @@
-## Hi there 👋
+## あいさつ
+電２です。読みはでんじです。
 
+## greeting
+Hello! I'm electr-2,please pronounce my name like /deɴdʑi/.
 <!--
 **electr-2/electr-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
